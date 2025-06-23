@@ -91,10 +91,10 @@ Please reach out via the contacts below or follow our project repositories for f
 ## 📬 Contact Us
 - 📧 **Supervisor – Mr. Huỳnh Tấn Cảnh** – `CanhHT5@fe.edu.vn`
 
-- 📧 **Vũ Trần Quang Minh** – `minhvtqgcs220006@fpt.edu.vn`  
+- 📧 **Co-Founder - Mr. Vũ Trần Quang Minh** – `minhvtqgcs220006@fpt.edu.vn`  
   GitHub: [@vutranquangminh](https://github.com/vutranquangminh)
 
-- 📧 **Trần Quang Đại** – `daitqgcs220714@fpt.edu.vn`  
+- 📧 **Co-Founder - Mr. Trần Quang Đại** – `daitqgcs220714@fpt.edu.vn`  
   GitHub: [@trandaine](https://github.com/trandaine)
 
 ---
