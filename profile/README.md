@@ -89,6 +89,7 @@ Please reach out via the contacts below or follow our project repositories for f
 ---
 
 ## 📬 Contact Us
+- 📧 **Supervisor – Mr. Huỳnh Tấn Cảnh** – `CanhHT5@fe.edu.vn`
 
 - 📧 **Vũ Trần Quang Minh** – `minhvtqgcs220006@fpt.edu.vn`  
   GitHub: [@vutranquangminh](https://github.com/vutranquangminh)
