@@ -42,7 +42,7 @@ By blending pedagogy with cutting-edge technologies, we aim to support learners 
 | Web Frontend  | React (Next.js), Tailwind CSS, TypeScript            |
 | Mobile App    | React Native (Expo), TypeScript                      |
 | AI Backend    | Python 3.10+, Django REST Framework, NLP Models      |
-| Core Backend  | C#, ASP.NET Core (.NET 7), REST APIs                 |
+| Core Backend  | C#, ASP.NET Core (.NET 8), REST APIs                 |
 | Database      | Microsoft SQL Server                                 |
 | DevOps        | GitHub Actions, CI/CD Pipelines, Docker (planned)   |
 
