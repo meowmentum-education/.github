@@ -1,6 +1,6 @@
 # 🐾 Meowmentum
 
-**Meowmentum** is a forward-thinking educational technology initiative redefining the way English is learned — through **AI-driven personalization**, **cross-platform accessibility**, and **interactive, gamified experiences**.  
+**Meowmentum** is a forward-thinking educational technology initiative redefining the way English is learned — through **AI-driven personalization**, **cross-platform accessibility**, and **interactive, gamified experiences**.
 
 Originally conceptualized as a **capstone project** at the **University of Greenwich**, Meowmentum is evolving into a scalable **edtech startup**, focused on delivering measurable learning outcomes and inclusive language education globally.
 
@@ -37,14 +37,16 @@ By blending pedagogy with cutting-edge technologies, we aim to support learners 
 
 ## 🧑‍💻 Tech Stack Overview
 
-| Layer         | Technologies Used                                   |
-|---------------|------------------------------------------------------|
-| Web Frontend  | React (Next.js), Tailwind CSS, TypeScript            |
-| Mobile App    | React Native (Expo), TypeScript                      |
-| AI Backend    | Python 3.10+, Django REST Framework, NLP Models      |
-| Core Backend  | C#, ASP.NET Core (.NET 8), REST APIs                 |
-| Database      | Microsoft SQL Server                                 |
-| DevOps        | GitHub Actions, CI/CD Pipelines, Docker (planned)   |
+| Layer         | Technologies Used                                                    |
+|---------------|----------------------------------------------------------------------|
+| Web Frontend  | React, TypeScript, Tailwind CSS                                   |
+| Mobile App    | React Native, TypeScript, Tailwind CSS (via NativeWind)       |
+| AI Backend    | Python 3.10+, Django REST Framework, NLP Models                      |
+| Core Backend  | C#, ASP.NET Core (.NET 8), REST APIs                                 |
+| Database      | Microsoft SQL Server                                                 |
+| DevOps        | GitHub Actions, CI/CD Pipelines, Docker (planned)                   |
+
+> Note: Our mobile app styling is handled using **NativeWind**, bringing Tailwind-style utility classes to React Native.
 
 ---
 
@@ -69,10 +71,10 @@ We are conducting iterative testing, UX research, and pilot evaluation to valida
 
 ## 👥 Founding Team
 
-| Member                 | Role                            | Core Responsibilities |
-|------------------------|----------------------------------|------------------------|
-| **Vũ Trần Quang Minh** | Co-Founder, Frontend & AI Lead  | Web & Mobile UI, AI Architecture, NLP Models |
-| **Trần Quang Đại**     | Co-Founder, Backend Engineer     | ASP.NET APIs, Database Design, DevOps Planning |
+| Member                 | Role                            | Core Responsibilities                                |
+|------------------------|----------------------------------|-----------------------------------------------------|
+| **Vũ Trần Quang Minh** | Co-Founder, Frontend & AI Lead  | Web & Mobile UI, AI Architecture, NLP Models        |
+| **Trần Quang Đại**     | Co-Founder, Backend Engineer     | ASP.NET APIs, Database Design, DevOps Planning      |
 
 ---
 
@@ -89,6 +91,7 @@ Please reach out via the contacts below or follow our project repositories for f
 ---
 
 ## 📬 Contact Us
+
 - 📧 **Supervisor – Mr. Huỳnh Tấn Cảnh** – `CanhHT5@fe.edu.vn`
 
 - 📧 **Co-Founder - Mr. Vũ Trần Quang Minh** – `minhvtqgcs220006@fpt.edu.vn`  
